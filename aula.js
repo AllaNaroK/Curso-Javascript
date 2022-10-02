@@ -38,3 +38,7 @@
 // let naoPassar = !passarAno;
 // console.log("Não passou?: ",naoPassar); 
 
+const veiculos = ['celta', 'biz', 'monark'];
+for(let motorizados of veiculos){
+    console.log(motorizados);
+}
