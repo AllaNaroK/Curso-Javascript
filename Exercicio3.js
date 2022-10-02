@@ -13,7 +13,7 @@ function fizzBuzz(entrada){
     return console.log("Este número não é divisível por 3 ou 5! Então... : ",entrada);
 }
 
-//Para termos os resultados que necessitamos, precisamos tratar o código para cada caso.
-//Passo 1: Criar uma variável para armazenar o nosso resultado (e mostrar no console)
-//Passo 2: Criar uma função para comparar os resultados
-//Passo 3: A partir do resultado, usar da variável criada para exibir o resultado corretamente (entre as cinco opções lógicas)
+// Para termos os resultados que necessitamos, precisamos tratar o código para cada caso.
+// Passo 1: Criar uma variável para armazenar o nosso resultado (e mostrar no console)
+// Passo 2: Criar uma função para comparar os resultados
+// Passo 3: A partir do resultado, usar da variável criada para exibir o resultado corretamente (entre as cinco opções lógicas)
